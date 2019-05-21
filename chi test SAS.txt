@@ -1,4 +1,4 @@
-data one;   /*ÊäÈëÊı¾İ£¬Èı¸ö±äÁ¿Ãûr£¬c£¬n ·Ö±ğ´ú±í¶şÎ¬±íµÄĞĞ¡¢ÁĞºÍÆµÊı
+data one;   /*è¾“å…¥æ•°æ®ï¼Œä¸‰ä¸ªå˜é‡årï¼Œcï¼Œn åˆ†åˆ«ä»£è¡¨äºŒç»´è¡¨çš„è¡Œã€åˆ—å’Œé¢‘æ•°
 input r c n @@;
 cards;
 1 1 15
@@ -8,7 +8,7 @@ cards;
 3 1 24
 3 2 21
 ;
-proc freq data=one;  /*µ÷ÓÃSAS/freq¹ı³Ì£¬¼ÆËã¿¨·½Öµ
+proc freq data=one;  /*è°ƒç”¨SAS/freqè¿‡ç¨‹ï¼Œè®¡ç®—å¡æ–¹å€¼
 weight n;
 tables r*c/chisq;
 run;
