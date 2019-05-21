@@ -1,3 +1,3 @@
-matrix(c(22,10,32,1),nr=2,nc=2)->c2  #´´½¨2ĞĞ2ÁĞËÄ¸ñ±íc2
-chisq.test(c2,correct=TRUE)   #¿¨·½Ğ£ÕıÖµ
-fisher.test(c2)   #Fisher¾«È·¸ÅÂÊ
+matrix(c(22,10,32,1),nr=2,nc=2)->c2  #åˆ›å»º2è¡Œ2åˆ—å››æ ¼è¡¨c2
+chisq.test(c2,correct=TRUE)   #å¡æ–¹æ ¡æ­£å€¼
+fisher.test(c2)   #Fisherç²¾ç¡®æ¦‚ç‡
