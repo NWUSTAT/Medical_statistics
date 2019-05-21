@@ -1,4 +1,4 @@
-DATA LIST Free/r c n.  ##Èý¸ö±äÁ¿Ãûr£¬c£¬n ·Ö±ð´ú±í¶þÎ¬±íµÄÐÐ¡¢ÁÐºÍÆµÊý
+DATA LIST Free/r c n.  ##ä¸‰ä¸ªå˜é‡årï¼Œcï¼Œn åˆ†åˆ«ä»£è¡¨äºŒç»´è¡¨çš„è¡Œã€åˆ—å’Œé¢‘æ•°
 Begin data.
 1 1 15
 1 2 12
@@ -7,8 +7,8 @@ Begin data.
 3 1 24
 3 2 21
 End data.
-WEIGHT BY n.   ##¶þÎ¬±íÆµÊý¼ÓÈ¨
-CROSSTABS     ##¼ÆËã¿¨·½Öµ
+WEIGHT BY n.   ##äºŒç»´è¡¨é¢‘æ•°åŠ æƒ
+CROSSTABS     ##è®¡ç®—å¡æ–¹å€¼
 /TABLES=r BY c
 /FORMAT=AVALUE TABLES
 /STATISTICS=CHISQ
