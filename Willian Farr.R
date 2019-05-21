@@ -19,26 +19,24 @@ lines(mort ~ elev, lwd=2, col="blue")
 U5 <- read.csv("U5China.csv")
 summary(U5)
 
-# plot 5Ëê vs Äê
+# plot 5å² vs å¹´
 plot(Rate ~ Year, data=U5, 
 	pch=16, cex.lab=1.2, cex=1.2,
-	xlab="Äê´ú",ylab="ËÀÍöÂÊ1/1000£©")
+	xlab="å¹´ä»£",ylab="æ­»äº¡çŽ‡1/1000ï¼‰")
 
-#5ËêÒÔÏÂ¶ùÍ¯ËÀÍöÂÊ vs 1980Äê
+#5å²ä»¥ä¸‹å„¿ç«¥æ­»äº¡çŽ‡ vs 1980å¹´
 U1980 <- read.csv("U5China1980.csv")
 head(U1980)
 plot(Rate ~ Year, data=U1980,xlim=c(1980,2030),ylim=c(0,65), 
 	pch=16, cex.lab=1.2, cex=1.2,
-	xlab="Äê´ú",ylab="ÖÐ¹ú5ËêÒÔÏÂ¶ùÍ¯ËÀÍöÂÊ(1/1000£©")
-# 2030¿ØÖÆÄ¿±ê
+	xlab="å¹´ä»£",ylab="ä¸­å›½5å²ä»¥ä¸‹å„¿ç«¥æ­»äº¡çŽ‡(1/1000ï¼‰")
+# 2030æŽ§åˆ¶ç›®æ ‡
 elev <- c(2015,2020,2015,2030)
 mort <- c(6, 6, 6,6)
 lines(mort ~ elev, lwd=2, col="blue")
-legend(x=2000,y=10,legend=c("2030Ä¿±ê"),col=c("blue"),lty=0)
+legend(x=2000,y=10,legend=c("2030ç›®æ ‡"),col=c("blue"),lty=0)
 
 install.packages("HistData")
 library(HistData)
 data(peas)
 head(peas)
-
-
