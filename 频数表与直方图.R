@@ -8,7 +8,7 @@ names=c("3.20-","3.50-","3.80-","4.10-","4.40-","4.70-","5.00-","5.30-","5.60-",
 rbcg=cut(rbc,breaks=b,labels=names, right = F) 
 #展示频数表
 t(table(rbcg))
-#两幅图
+#展示两幅图
 par(mfrow=c(1,2)) 
 #查看直方图,左侧闭区间
 hist(rbc,breaks=b,col="green",labels=names,right = F, main ="某地120名正常成年男子红细胞数",xlim = c(3,6.5), ylim =c(0,25),xlab = "红细胞数", ylab="频数") 
