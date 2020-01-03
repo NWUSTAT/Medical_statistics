@@ -1,6 +1,5 @@
 #第二章 例2-1某地正常成年男子120名的红细胞计数值
-tab1=read.table("https://gitee.com/nwumed/medical_statistics/raw/master/nwutab02.txt", header=TRUE)#网站读取
-tab2=read.table("C:\\R数据\\nwutab02.txt", header=TRUE) #本地读取
+rbc=read.table("https://gitee.com/nwumed/medical_statistics/raw/master/nwutab02.txt", header=TRUE)#网站读取
 #划分组段
 b=c(3.20,3.50,3.80,4.10,4.40,4.70,5.00,5.30,5.60,5.90,6.20)
 #组段区间标签
