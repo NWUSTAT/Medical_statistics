@@ -1,2 +1,0 @@
-"matrix(c(15,23,24,12,12,21),nr=3,nc=2)->c1  #创建3行2列二维表c1"
-"chisq.test(c1,correct=TRUE) #校正卡方值"
