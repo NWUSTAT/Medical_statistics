@@ -1,3 +1,0 @@
-matrix(c(22,10,32,1),nr=2,nc=2)->c2  #创建2行2列四格表c2
-chisq.test(c2,correct=TRUE)   #卡方校正值
-fisher.test(c2)   #Fisher精确概率
