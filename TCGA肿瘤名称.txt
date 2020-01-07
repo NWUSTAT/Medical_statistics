@@ -1,47 +1,47 @@
-        TCGAËõĞ´¡¢È«³ÆµÄÓ¢ºº¶ÔÕÕ
+        TCGAç¼©å†™ã€å…¨ç§°è‹±æ±‰å¯¹ç…§
 
-ACC	Adrenocortical carcinoma	ÉöÉÏÏÙÆ¤ÖÊ°©
-BLCA	Bladder Urothelial Carcinoma	°òë×ÄòÂ·ÉÏÆ¤°©
-BRCA	Breast invasive carcinoma	ÈéÏÙ½şÈó°©
+ACC	Adrenocortical carcinoma	è‚¾ä¸Šè…ºçš®è´¨ç™Œ
+BLCA	Bladder Urothelial Carcinoma	è†€èƒ±ç™Œï¼ˆå°¿è·¯ï¼‰
+BRCA	Breast invasive carcinoma	ä¹³è…ºç™Œ
 CESC	Cervical squamous cell 
       carcinoma and endocervical 
-      adenocarcinoma	            ¹¬¾±ÁÛ°©ºÍÏÙ°©
-CHOL	Cholangiocarcinoma	      µ¨¹Ü°©
-COAD	Colon adenocarcinoma	      ½á³¦°©
+      adenocarcinoma	            å®«é¢ˆç™Œ
+CHOL	Cholangiocarcinoma	        èƒ†ç®¡ç™Œ
+COAD	Colon adenocarcinoma	    ç»“è‚ ç™Œ
 COADREAD	
       Colon adenocarcinoma/Rectum 
       adenocarcinoma Esophageal 
-      carcinoma               	               ½áÖ±³¦°©
+      carcinoma               	     ç»“ç›´è‚ è‚¿ç˜¤
 DLBC	Lymphoid Neoplasm Diffuse 
-      Large B-cell Lymphoma   	         ÃÖÂşĞÔ´óBÏ¸°ûÁÜ°ÍÁö
-ESCA	Esophageal carcinoma	      Ê³¹Ü°©
-FPPP	FFPE Pilot Phase II	                       FFPEÇ°¶ÎIIÆÚ
-GBM	Glioblastoma multiforme	      ¶àĞÎ³ÉĞÔ½ºÖÊÏ¸°ûÁö
-GBMLGG	Glioma	                                        ½ºÖÊÁö
+      Large B-cell Lymphoma   	     å¼¥æ¼«æ€§Bç»†èƒæ·‹å·´ç™Œ
+ESCA	Esophageal carcinoma	     é£Ÿç®¡ç™Œ
+FPPP	FFPE Pilot Phase II	                       FFPEí’ˆë™ˆIIí…
+GBM	Glioblastoma multiforme	      ëœ©è¿‘ëƒ¥æ˜‘ìŠ¤é†´ç–ê³½ì§€
+GBMLGG	Glioma	                                        ìŠ¤é†´ì§€
 HNSC	Head and Neck squamous cell 
-      carcinoma	                                        Í·¾±ÁÛ×´Ï¸°û°©
-KICH	Kidney Chromophobe	      ÉöÏÓÉ«Ï¸°û°©
-KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	»ìºÏÉö°©
-KIRC	Kidney renal clear cell carcinoma	ÉöÍ¸Ã÷Ï¸°û°©
-KIRP	Kidney renal papillary cell carcinoma	ÉöÈéÍ·×´Ï¸°û°©
-LAML	Acute Myeloid Leukemia	                ¼±ĞÔËèÏ¸°ûÑù°×Ñª²¡
-LGG	Brain Lower Grade Glioma	                ÄÔµÍ¼¶±ğ½ºÖÊÁö
-LIHC	Liver hepatocellular carcinoma	¸ÎÏ¸°û¸Î°©
-LUAD	Lung adenocarcinoma	                 ·ÎÏÙ°©
-LUSC	Lung squamous cell carcinoma	 ·ÎÁÛ°©
-MESO	Mesothelioma	                                  ¼äÆ¤Áö
-OV	Ovarian serous cystadenocarcinoma	ÂÑ³²½¬ÒºĞÔÄÒÏÙ°©
-PAAD	Pancreatic adenocarcinoma	      ÒÈÏÙ°©
-PCPG	Pheochromocytoma and Paraganglioma	ÊÈ¸õÏ¸°ûÁöºÍ¸±Éñ¾­½ÚÁö
-PRAD	Prostate adenocarcinoma	Ç°ÁĞÏÙ°©
-READ	Rectum adenocarcinoma	Ö±³¦ÏÙ°©
-SARC	Sarcoma	            ÈâÁö
-SKCM	Skin Cutaneous Melanoma	Æ¤·ôºÚÉ«ËØÁö
-STAD	Stomach adenocarcinoma	Î¸°©
-STES	Stomach and Esophageal carcinoma	Î¸ºÍÊ³¹Ü°©
-TGCT	Testicular Germ Cell Tumors	      ØºÍè°©
-THCA	Thyroid carcinoma	                  ¼××´ÏÙ°©
-THYM	Thymoma	                        ĞØÏÙ°©
-UCEC	Uterine Corpus Endometrial Carcinoma ×Ó¹¬ÄÚÄ¤°©
-UCS	Uterine Carcinosarcoma	             ×Ó¹¬ÈâÁö
-UVM	Uveal Melanoma	                   ÆÏÌÑÄ¤ºÚÉ«ËØÁö
+      carcinoma	                                        åº«ì“©ì¤†æ¦´ç–ê³½ê°‘
+KICH	Kidney Chromophobe	      é ç–ê³½ê°‘
+KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	ì‚´ë¶ê°‘
+KIRC	Kidney renal clear cell carcinoma	æ‹·ì¸ ç–ê³½ê°‘
+KIRP	Kidney renal papillary cell carcinoma	í—åº«æ¦´ç–ê³½ê°‘
+LAML	Acute Myeloid Leukemia	                ì„ æ˜‘é½ç–ê³½æ¹³ê²œæ²‚ê¹¹
+LGG	Brain Lower Grade Glioma	                ì¼¬ë´ì„¬ê¹ìŠ¤é†´ì§€
+LIHC	Liver hepatocellular carcinoma	ë§ºç–ê³½ë§ºê°‘
+LUAD	Lung adenocarcinoma	                 ë¡œè£™ê°‘
+LUSC	Lung squamous cell carcinoma	 ë¡œì¤†ê°‘
+MESO	Mesothelioma	                                  ì‡ŒíŠ„ì§€
+OV	Ovarian serous cystadenocarcinoma	ì«“ë‚¨ì‰¬æ»æ˜‘ì¼ è£™ê°‘
+PAAD	Pancreatic adenocarcinoma	      ï¤µè£™ê°‘
+PCPG	Pheochromocytoma and Paraganglioma	é–£ëª²ç–ê³½ì§€ëµ¨ë¦´ì’”ìŒ˜ì§€
+PRAD	Prostate adenocarcinoma	í’ˆì£—è£™ê°‘
+READ	Rectum adenocarcinoma	æ®®ë‚Œè£™ê°‘
+SARC	Sarcoma	            í„ì§€
+SKCM	Skin Cutaneous Melanoma	íŠ„ë¥€ë¶šç¾¹ì§€
+STAD	Stomach adenocarcinoma	ç½ê°‘
+STES	Stomach and Esophageal carcinoma	ç½ëµ¨ç¨¼ë°—ê°‘
+TGCT	Testicular Germ Cell Tumors	      æ›¼ï¤„ê°‘
+THCA	Thyroid carcinoma	            ç”²çŠ¶è…ºç™Œ
+THYM	Thymoma	                        èƒ¸è…ºç™Œ
+UCEC	Uterine Corpus Endometrial Carcinoma å­å®«ç™Œ
+UCS	Uterine Carcinosarcoma	            å­å®«ç˜¤
+UVM	Uveal Melanoma	                   é»‘è‰²ç´ ç˜¤
