@@ -15,22 +15,22 @@ COADREAD
 DLBC	Lymphoid Neoplasm Diffuse 
       Large B-cell Lymphoma   	     弥漫性B细胞淋巴癌
 ESCA	Esophageal carcinoma	     食管癌
-FPPP	FFPE Pilot Phase II	                       FFPE품뙈II퍅
-GBM	Glioblastoma multiforme	      뜩近냥昑스醴玖곽지
-GBMLGG	Glioma	                                        스醴지
+FPPP	FFPE Pilot Phase II	         FFPE前期II
+GBM	   Glioblastoma multiforme	     多形成性胶质细胞瘤
+GBMLGG	Glioma	                     胶质瘤
 HNSC	Head and Neck squamous cell 
-      carcinoma	                                        庫쓩줆榴玖곽갑
-KICH	Kidney Chromophobe	      鞠玖곽갑
-KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	살북갑
+       carcinoma	                 头颈癌
+KICH	Kidney Chromophobe	         肾嫌色癌
+KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	混合肾癌
 KIRC	Kidney renal clear cell carcinoma	拷츠玖곽갑
 KIRP	Kidney renal papillary cell carcinoma	흗庫榴玖곽갑
 LAML	Acute Myeloid Leukemia	                선昑遽玖곽湳겜沂깹
-LGG	Brain Lower Grade Glioma	                켬됴섬깎스醴지
+LGG	    Brain Lower Grade Glioma	            脑胶质瘤
 LIHC	Liver hepatocellular carcinoma	맺玖곽맺갑
 LUAD	Lung adenocarcinoma	                 로裙갑
 LUSC	Lung squamous cell carcinoma	 로줆갑
-MESO	Mesothelioma	                                  쇌튄지
-OV	Ovarian serous cystadenocarcinoma	쫓남쉬捻昑켠裙갑
+MESO	Mesothelioma	                    间质瘤
+OV	    Ovarian serous cystadenocarcinoma	卵巢癌
 PAAD	Pancreatic adenocarcinoma	      蘆裙갑
 PCPG	Pheochromocytoma and Paraganglioma	閣몲玖곽지뵨릴쒔쌘지
 PRAD	Prostate adenocarcinoma	품죗裙갑
@@ -38,10 +38,10 @@ READ	Rectum adenocarcinoma	殮낌裙갑
 SARC	Sarcoma	            흄지
 SKCM	Skin Cutaneous Melanoma	튄륀붚羹지
 STAD	Stomach adenocarcinoma	罐갑
-STES	Stomach and Esophageal carcinoma	罐뵨稼밗갑
-TGCT	Testicular Germ Cell Tumors	      曼滑갑
-THCA	Thyroid carcinoma	            甲状腺癌
-THYM	Thymoma	                        胸腺癌
+STES	Stomach and Esophageal carcinoma 胃（食管）癌
+TGCT	Testicular Germ Cell Tumors	     睾丸癌
+THCA	Thyroid carcinoma	             甲状腺癌
+THYM	Thymoma	                         胸腺癌
 UCEC	Uterine Corpus Endometrial Carcinoma 子宫癌
-UCS	Uterine Carcinosarcoma	            子宫瘤
-UVM	Uveal Melanoma	                   黑色素瘤
+UCS	    Uterine Carcinosarcoma	             子宫瘤
+UVM  	Uveal Melanoma	                     黑色素瘤
