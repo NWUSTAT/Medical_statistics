@@ -1,0 +1,99 @@
+﻿case,CompositeElementREF,years_to_birth,vital_status,days_to_death,days_to_last_followup,tumor_tissue_site,pathologic_stage,pathology_T_stage,pathology_N_stage,pathology_M_stage,gender,date_of_initial_pathologic_diagnosis,days_to_last_known_alive,radiation_therapy,histological_type,residual_tumor,number_of_lymph_nodes,race,ethnicity,filter_$
+tcga.4n.a93t,value,67,0,NA,146,colon,stage iiib,t4a,n1b,m0,male,2013,NA,no,colon adenocarcinoma,r0,NA,black or african american,not hispanic or latino,0
+tcga.a6.2686,value,81,1,1126,488,colon,stage iia,t3,n0,m0,female,2009,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.a6.4105,value,79,1,442,NA,colon,stage iia,t3,n0,m0,male,2010,NA,no,colon adenocarcinoma,NA,0,white,not hispanic or latino,0
+tcga.a6.5656,value,74,0,NA,1001,colon,stage i,t2,n0,m0,male,2010,NA,no,colon adenocarcinoma,NA,0,white,not hispanic or latino,0
+tcga.a6.5657,value,65,0,NA,962,colon,stage iiib,t3,n1,m0,male,2010,NA,no,colon adenocarcinoma,r0,1,black or african american,not hispanic or latino,1
+tcga.a6.5662,value,46,0,NA,718,colon,stage iva,t3,n2,m1,male,2010,NA,no,colon adenocarcinoma,NA,7,white,not hispanic or latino,0
+tcga.a6.6141,value,31,0,NA,255,colon,stage iia,t3,n0,m0,male,2011,NA,no,colon adenocarcinoma,NA,0,black or african american,not hispanic or latino,0
+tcga.a6.6142,value,56,0,NA,763,colon,stage iva,t3,n1a,m1a,female,2011,NA,no,colon adenocarcinoma,NA,1,white,not hispanic or latino,0
+tcga.a6.6649,value,66,0,NA,735,colon,stage iiib,t3,n1b,m0,male,2010,NA,no,colon adenocarcinoma,NA,2,white,not hispanic or latino,0
+tcga.a6.a567,value,56,1,1881,NA,colon,stage iv,t3,n1,m1,male,2007,NA,no,colon adenocarcinoma,NA,3,black or african american,NA,0
+tcga.aa.3502,value,73,0,NA,1065,colon,stage i,t2,n0,m0,male,2003,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3521,value,87,0,NA,NA,colon,stage ii,t3,n0,m0,male,2007,NA,NA,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3529,value,78,1,0,NA,colon,stage iiic,t3,n2,m0,female,2007,NA,NA,colon adenocarcinoma,r0,10,NA,NA,0
+tcga.aa.3530,value,80,0,NA,580,colon,stage i,t2,n0,m0,male,2007,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3542,value,69,0,NA,395,colon,stage iiic,t3,n2,m0,male,2008,NA,no,colon adenocarcinoma,r0,4,NA,NA,0
+tcga.aa.3655,value,68,0,NA,1856,colon,stage ii,t3,n0,m0,male,2005,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3693,value,77,0,NA,0,colon,stage iv,t4,n1,m1,female,2008,NA,NA,colon adenocarcinoma,r2,2,NA,NA,0
+tcga.aa.3854,value,71,0,NA,1096,colon,stage i,t2,n0,m0,female,2009,NA,no,colon mucinous adenocarcinoma,r0,0,NA,NA,1
+tcga.aa.3864,value,71,0,NA,1612,colon,stage ii,t3,n0,m0,male,2005,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3947,value,60,0,NA,1004,colon,stage iib,t4,n0,m0,female,2009,NA,no,colon mucinous adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3952,value,68,1,61,NA,colon,stage iiic,t3,n2,m0,male,2008,NA,NA,colon adenocarcinoma,r0,6,NA,NA,0
+tcga.aa.3966,value,89,0,NA,61,colon,stage iia,t3,n0,m0,female,2009,NA,NA,colon mucinous adenocarcinoma,NA,0,NA,NA,0
+tcga.aa.3968,value,55,0,NA,669,colon,stage i,t2,n0,m0,female,2008,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.3973,value,69,0,NA,397,colon,stage iv,t4,n1,m1,male,2007,NA,no,colon adenocarcinoma,r2,3,NA,NA,0
+tcga.aa.a004,value,76,0,NA,424,colon,stage iia,t3,n0,m0,male,2009,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.a00e,value,65,0,NA,913,colon,stage iia,t3,n0,m0,male,2007,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.a01i,value,76,0,NA,943,colon,stage i,t2,n0,m0,male,2009,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.a01x,value,80,0,NA,791,colon,stage iii,t2,n1,m0,female,2004,NA,no,colon adenocarcinoma,rx,2,NA,NA,0
+tcga.aa.a02w,value,73,0,NA,1247,colon,stage i,t2,n0,m0,female,2006,NA,no,colon adenocarcinoma,r0,0,NA,NA,0
+tcga.aa.a03f,value,90,1,549,0,colon,stage iii,t3,n2,m0,female,2004,NA,no,colon mucinous adenocarcinoma,r0,4,NA,NA,0
+tcga.ad.5900,value,67,0,NA,370,colon,stage i,t2,n0,mx,male,2010,NA,no,colon mucinous adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.ad.6548,value,81,0,NA,650,colon,stage i,t2,n0,m0,female,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.ad.6901,value,78,1,682,31,colon,NA,t3,n0,mx,male,2011,NA,no,colon adenocarcinoma,NA,0,white,NA,0
+tcga.ay.4070,value,50,1,496,NA,colon,stage iiic,t3,n2,m0,female,2007,NA,no,colon adenocarcinoma,r1,5,black or african american,not hispanic or latino,0
+tcga.ay.5543,value,65,0,NA,1004,colon,stage iva,t3,n1a,m1,female,2010,NA,no,colon adenocarcinoma,r0,1,black or african american,not hispanic or latino,1
+tcga.az.4313,value,51,0,NA,2310,colon,stage i,t1,n0,m0,female,2007,NA,no,colon adenocarcinoma,NA,0,white,not hispanic or latino,0
+tcga.az.4614,value,71,1,172,NA,colon,stage iva,t4a,n1,m1,female,2008,NA,no,colon adenocarcinoma,r0,2,white,not hispanic or latino,0
+tcga.az.4681,value,79,0,NA,3247,colon,stage iia,t3,n0,m0,female,2004,NA,no,colon adenocarcinoma,r0,NA,white,not hispanic or latino,0
+tcga.ca.5256,value,54,0,NA,379,colon,stage iia,t3,n0,m0,female,2010,NA,no,colon adenocarcinoma,r0,NA,asian,NA,0
+tcga.ca.6716,value,65,0,NA,371,colon,stage iia,t3,n0,m0,male,2010,NA,no,colon adenocarcinoma,rx,NA,asian,not hispanic or latino,0
+tcga.ck.4947,value,46,0,NA,534,colon,stage iiib,t4,n1,m0,female,2003,NA,no,colon adenocarcinoma,rx,3,white,not hispanic or latino,0
+tcga.ck.4948,value,45,0,NA,4502,colon,stage iii,t3,n1,m0,female,2002,NA,no,colon adenocarcinoma,r0,3,white,not hispanic or latino,0
+tcga.ck.4950,value,68,0,NA,2599,colon,stage iiib,t3,n1,m0,female,2008,NA,no,colon mucinous adenocarcinoma,r1,1,black or african american,not hispanic or latino,0
+tcga.ck.4951,value,79,1,2134,2134,colon,stage iia,t3,n0,m0,female,2007,NA,no,colon mucinous adenocarcinoma,r1,0,white,not hispanic or latino,0
+tcga.ck.4952,value,48,0,NA,475,colon,stage iiic,t4,n2,m0,female,2007,NA,NA,colon mucinous adenocarcinoma,rx,5,white,not hispanic or latino,0
+tcga.cm.5348,value,72,0,NA,699,colon,stage iiib,t3,n1a,m0,male,2010,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.cm.5860,value,44,0,NA,974,colon,stage iia,t3,n0,m0,male,2010,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.cm.5863,value,60,0,NA,457,colon,stage iiib,t3,n1b,m0,female,2010,NA,no,colon mucinous adenocarcinoma,r0,3,white,not hispanic or latino,0
+tcga.cm.6169,value,67,0,NA,396,colon,stage iia,t3,n0,m0,male,2010,NA,no,colon adenocarcinoma,r0,0,black or african american,not hispanic or latino,0
+tcga.cm.6172,value,70,0,NA,335,colon,stage iiib,t3,n1a,m0,female,2010,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,1
+tcga.cm.6675,value,35,0,NA,397,colon,stage ivb,t3,n2b,m1b,male,2011,NA,no,colon adenocarcinoma,r0,12,black or african american,not hispanic or latino,0
+tcga.cm.6676,value,82,0,NA,337,colon,stage i,t2,n0,m0,male,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.cm.6679,value,58,0,NA,306,colon,stage iia,t3,n0,m0,male,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.d5.5539,value,60,0,NA,596,colon,stage iiia,t3,n1,m0,male,2010,NA,no,colon mucinous adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.d5.5540,value,73,0,NA,1706,colon,stage iia,t3,n0,m0,male,2010,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.d5.6530,value,53,0,NA,621,colon,stage i,t2,n0,m0,male,2010,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.d5.6898,value,51,0,NA,229,colon,stage i,t2,n0,m0,female,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.d5.6922,value,76,0,NA,308,colon,stage iiia,t3,n1,m0,male,2011,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.d5.6932,value,69,0,NA,346,colon,stage iia,t3,n0,m0,male,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.d5.7000,value,79,0,NA,312,colon,stage i,t2,n0,m0,female,2011,NA,no,colon mucinous adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.dm.a1db,value,68,1,1348,1348,colon,stage iia,t3,n0,m0,male,2000,1348,NA,colon adenocarcinoma,NA,0,white,not hispanic or latino,0
+tcga.dm.a280,value,70,1,236,236,colon,stage iia,t3,n0,m0,female,1998,NA,NA,colon mucinous adenocarcinoma,NA,0,white,not hispanic or latino,0
+tcga.dm.a285,value,71,1,179,NA,colon,stage iv,t3,n2,m1,female,2001,NA,NA,colon mucinous adenocarcinoma,NA,11,white,not hispanic or latino,1
+tcga.dm.a288,value,68,1,427,427,colon,stage iiic,t3,n2,m0,male,2001,NA,NA,colon mucinous adenocarcinoma,NA,4,white,not hispanic or latino,1
+tcga.f4.6569,value,60,0,NA,1087,colon,stage i,t2,n0,m0,male,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.f4.6704,value,60,0,NA,47,colon,stage iiic,t3,n2b,mx,male,2011,NA,NA,colon mucinous adenocarcinoma,r0,13,american indian or alaska native,not hispanic or latino,0
+tcga.f4.6854,value,77,0,NA,16,colon,stage iia,t3,n0,m0,female,2011,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.g4.6303,value,54,1,2003,1882,colon,stage iv,t3,n1,m1,female,2006,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.g4.6311,value,80,0,NA,1199,colon,stage iii,t3,n1,mx,male,2008,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.g4.6314,value,76,0,NA,1093,colon,stage iv,t3,n2,m1,female,2008,NA,no,colon adenocarcinoma,r0,50,white,not hispanic or latino,0
+tcga.g4.6315,value,66,0,NA,1883,colon,stage iv,t3,n1,m1,male,2008,NA,no,colon adenocarcinoma,r0,1,white,not hispanic or latino,1
+tcga.g4.6317,value,51,0,NA,1095,colon,stage iiic,t3,n2,mx,female,2008,NA,no,colon adenocarcinoma,r0,6,white,not hispanic or latino,0
+tcga.g4.6586,value,73,0,NA,1089,colon,stage iia,t3,n0,m0,female,2008,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.g4.6626,value,89,1,1422,NA,colon,stage iia,t3,n0,m0,male,2006,NA,no,colon adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.qg.a5yx,value,61,0,NA,1003,colon,stage iia,t3,n0,mx,female,2011,NA,no,colon adenocarcinoma,r0,0,black or african american,not hispanic or latino,0
+tcga.qg.a5z1,value,71,1,256,202,colon,stage iiib,t3,n1b,mx,male,2011,NA,no,colon adenocarcinoma,r0,3,black or african american,not hispanic or latino,0
+tcga.af.2687,value,57,0,NA,1427,rectum,stage iiic,t3,n2,m0,male,2009,NA,yes,rectal adenocarcinoma,r0,6,white,not hispanic or latino,1
+tcga.af.2692,value,54,0,NA,412,NA,stage iia,t3,n0,m0,female,2009,NA,no,NA,r0,0,white,not hispanic or latino,0
+tcga.af.2693,value,75,0,NA,1155,NA,stage i,t2,n0,mx,male,2009,NA,no,NA,NA,0,white,not hispanic or latino,0
+tcga.ag.3575,value,51,0,NA,365,rectum,stage ii,t3,n0,m0,male,2006,NA,no,rectal adenocarcinoma,r0,0,NA,NA,0
+tcga.ag.3582,value,75,1,1096,31,rectum,stage iv,t3,n1,m1,male,2007,NA,no,rectal adenocarcinoma,r2,1,NA,NA,0
+tcga.ag.3594,value,77,1,61,0,rectum,stage iia,t3,n0,m0,male,2007,NA,no,rectal mucinous adenocarcinoma,r0,0,NA,NA,0
+tcga.ag.3731,value,65,0,NA,1126,rectum,stage iv,t3,n1,m1,male,2004,NA,no,rectal adenocarcinoma,r2,3,NA,NA,0
+tcga.ag.3742,value,85,0,NA,30,rectum,stage i,t1,n0,m0,female,2004,NA,NA,rectal adenocarcinoma,r0,0,NA,NA,0
+tcga.ag.3901,value,67,0,NA,761,rectum,stage iiib,t3,n1,m0,female,2007,NA,no,rectal mucinous adenocarcinoma,r0,2,NA,NA,0
+tcga.ag.3909,value,69,0,NA,608,rectum,stage iiib,t3,n1,m0,female,2008,NA,no,rectal adenocarcinoma,r0,3,NA,NA,0
+tcga.ag.4021,value,84,1,121,0,rectum,stage iv,t3,n2,m1,female,2005,NA,no,rectal adenocarcinoma,r2,5,NA,NA,0
+tcga.ag.a00y,value,68,0,NA,700,rectum,stage iia,t3,n0,m0,male,2008,NA,no,rectal adenocarcinoma,r0,0,NA,NA,0
+tcga.ah.6643,value,50,1,1314,21,rectum,stage iiic,t3,n2b,m0,male,2010,NA,no,rectal adenocarcinoma,r0,8,white,NA,0
+tcga.ci.6622,value,74,0,NA,1362,rectum,stage iib,t4,n0,m0,male,2010,NA,yes,rectal adenocarcinoma,NA,0,white,not hispanic or latino,1
+tcga.cl.4957,value,79,1,NA,425,rectum,NA,t3,n1,m0,female,2008,NA,no,rectal adenocarcinoma,NA,2,NA,hispanic or latino,0
+tcga.dc.4745,value,49,0,NA,639,rectum,stage iiib,t3,n1a,m0,female,2010,NA,no,rectal adenocarcinoma,r0,1,white,not hispanic or latino,0
+tcga.dc.5337,value,69,0,NA,792,rectum,stage i,t1,n0,m0,male,2010,304,no,rectal adenocarcinoma,r0,0,white,not hispanic or latino,0
+tcga.ei.6884,value,71,0,NA,328,rectum,stage iiia,t3,n1,m0,male,2011,NA,no,rectal adenocarcinoma,r0,3,white,not hispanic or latino,0
+tcga.f5.6812,value,67,0,NA,1110,rectum,stage iia,t3,n0,m0,male,2011,NA,no,rectal adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.f5.6814,value,57,0,NA,1131,rectum,stage iia,t3,n0,m0,male,2011,NA,no,rectal adenocarcinoma,r0,0,white,not hispanic or latino,1
+tcga.f5.6863,value,71,1,361,23,rectum,stage iiib,t4a,n1,m0,female,2011,NA,no,rectal adenocarcinoma,r0,3,white,not hispanic or latino,1
+tcga.g5.6233,value,74,1,556,NA,rectum,stage iic,t3,n2,m0,male,2009,NA,no,rectal adenocarcinoma,r0,27,white,not hispanic or latino,0
