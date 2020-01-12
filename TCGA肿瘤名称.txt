@@ -8,7 +8,7 @@ COADREAD Colon adenocarcinoma/Rectum adenocarcinoma Esophageal carcinoma 结直�
 DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma  弥漫性B细胞淋巴癌
 ESCA	Esophageal carcinoma	                食管癌
 FPPP	FFPE Pilot Phase II	                    FFPE Pilot PhaseII
-GBM	    Glioblastoma multiforme	                多形成性胶质细胞瘤
+GBM     Glioblastoma multiforme	                多形成性胶质细胞瘤
 GBMLGG	Glioma	                                胶质瘤
 HNSC	Head and Neck squamous cell  carcinoma  头颈癌
 KICH    Kidney Chromophobe	                    肾嫌色癌
