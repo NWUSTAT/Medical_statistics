@@ -34,5 +34,5 @@ TGCT	Testicular Germ Cell Tumors	            睾丸癌
 THCA	Thyroid carcinoma	                    甲状腺癌
 THYM	Thymoma	                                胸腺癌
 UCEC	Uterine Corpus Endometrial Carcinoma    子宫癌
-UCS	    Uterine Carcinosarcoma	                子宫瘤
+UCS	    Uterine Carcinosarcoma	            子宫瘤
 UVM  	Uveal Melanoma	                        黑色素瘤
