@@ -1,8 +1,6 @@
-        TCGA缩写、全称英汉对照
-
-ACC	Adrenocortical carcinoma	肾上腺皮质癌
-BLCA	Bladder Urothelial Carcinoma	膀胱癌（尿路）
-BRCA	Breast invasive carcinoma	乳腺癌
+ACC	Adrenocortical carcinoma	     肾上腺皮质癌
+BLCA	Bladder Urothelial Carcinoma 膀胱癌（尿路）
+BRCA	Breast invasive carcinoma	 乳腺癌
 CESC	Cervical squamous cell 
       carcinoma and endocervical 
       adenocarcinoma	            宫颈癌
@@ -22,26 +20,26 @@ HNSC	Head and Neck squamous cell
        carcinoma	                 头颈癌
 KICH	Kidney Chromophobe	         肾嫌色癌
 KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	混合肾癌
-KIRC	Kidney renal clear cell carcinoma	拷츠玖곽갑
-KIRP	Kidney renal papillary cell carcinoma	흗庫榴玖곽갑
-LAML	Acute Myeloid Leukemia	                선昑遽玖곽湳겜沂깹
+KIRC	Kidney renal clear cell carcinoma	肾脏透明细胞癌
+KIRP	Kidney renal papillary cell carcinoma	肾脏乳头状细胞癌
+LAML	Acute Myeloid Leukemia	                急性髓细胞白血病
 LGG	    Brain Lower Grade Glioma	            脑胶质瘤
-LIHC	Liver hepatocellular carcinoma	맺玖곽맺갑
-LUAD	Lung adenocarcinoma	                 로裙갑
-LUSC	Lung squamous cell carcinoma	 로줆갑
+LIHC	Liver hepatocellular carcinoma	        肝癌
+LUAD	Lung adenocarcinoma	                肺腺癌
+LUSC	Lung squamous cell carcinoma	    肺鳞癌
 MESO	Mesothelioma	                    间质瘤
 OV	    Ovarian serous cystadenocarcinoma	卵巢癌
-PAAD	Pancreatic adenocarcinoma	      蘆裙갑
-PCPG	Pheochromocytoma and Paraganglioma	閣몲玖곽지뵨릴쒔쌘지
-PRAD	Prostate adenocarcinoma	품죗裙갑
-READ	Rectum adenocarcinoma	殮낌裙갑
-SARC	Sarcoma	            흄지
-SKCM	Skin Cutaneous Melanoma	튄륀붚羹지
-STAD	Stomach adenocarcinoma	罐갑
-STES	Stomach and Esophageal carcinoma 胃（食管）癌
-TGCT	Testicular Germ Cell Tumors	     睾丸癌
-THCA	Thyroid carcinoma	             甲状腺癌
-THYM	Thymoma	                         胸腺癌
+PAAD	Pancreatic adenocarcinoma	        胰腺癌
+PCPG	Pheochromocytoma and Paraganglioma	嗜铬细胞与神经节瘤
+PRAD	Prostate adenocarcinoma	            前列腺癌
+READ	Rectum adenocarcinoma	            直肠癌
+SARC	Sarcoma	                            肉瘤
+SKCM	Skin Cutaneous Melanoma	            皮肤黑色素瘤
+STAD	Stomach adenocarcinoma	            胃癌
+STES	Stomach and Esophageal carcinoma    胃（食管）癌
+TGCT	Testicular Germ Cell Tumors	        睾丸癌
+THCA	Thyroid carcinoma	                 甲状腺癌
+THYM	Thymoma	                             胸腺癌
 UCEC	Uterine Corpus Endometrial Carcinoma 子宫癌
 UCS	    Uterine Carcinosarcoma	             子宫瘤
 UVM  	Uveal Melanoma	                     黑色素瘤
