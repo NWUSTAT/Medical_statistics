@@ -1,9 +1,9 @@
-ACC	Adrenocortical carcinoma	      肾上腺皮质癌
-BLCA	Bladder Urothelial Carcinoma  膀胱癌（尿路）
-BRCA	Breast invasive carcinoma	  乳腺癌
+ACC	    Adrenocortical carcinoma	      肾上腺皮质癌
+BLCA	Bladder Urothelial Carcinoma      膀胱癌（尿路）
+BRCA	Breast invasive carcinoma	      乳腺癌
 CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma 宫颈癌
-CHOL	Cholangiocarcinoma	          胆管癌
-COAD	Colon adenocarcinoma	      结肠癌
+CHOL	Cholangiocarcinoma	                胆管癌
+COAD	Colon adenocarcinoma	            结肠癌
 COADREAD Colon adenocarcinoma/Rectum adenocarcinoma Esophageal carcinoma 结直肠肿瘤
 DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma  弥漫性B细胞淋巴癌
 ESCA	Esophageal carcinoma	                食管癌
@@ -34,5 +34,5 @@ TGCT	Testicular Germ Cell Tumors	            睾丸癌
 THCA	Thyroid carcinoma	                    甲状腺癌
 THYM	Thymoma	                                胸腺癌
 UCEC	Uterine Corpus Endometrial Carcinoma    子宫癌
-UCS	    Uterine Carcinosarcoma	            子宫瘤
+UCS     Uterine Carcinosarcoma	                子宫瘤
 UVM  	Uveal Melanoma	                        黑色素瘤
