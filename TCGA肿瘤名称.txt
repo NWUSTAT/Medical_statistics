@@ -2,8 +2,8 @@ ACC	    Adrenocortical carcinoma	      肾上腺皮质癌
 BLCA	Bladder Urothelial Carcinoma      膀胱癌（尿路）
 BRCA	Breast invasive carcinoma	      乳腺癌
 CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma 宫颈癌
-CHOL	Cholangiocarcinoma	                胆管癌
-COAD	Colon adenocarcinoma	            结肠癌
+CHOL    Cholangiocarcinoma	              胆管癌
+COAD    Colon adenocarcinoma	          结肠癌
 COADREAD Colon adenocarcinoma/Rectum adenocarcinoma Esophageal carcinoma 结直肠肿瘤
 DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma  弥漫性B细胞淋巴癌
 ESCA	Esophageal carcinoma	                食管癌
@@ -11,18 +11,18 @@ FPPP	FFPE Pilot Phase II	                    FFPE Pilot PhaseII
 GBM	    Glioblastoma multiforme	                多形成性胶质细胞瘤
 GBMLGG	Glioma	                                胶质瘤
 HNSC	Head and Neck squamous cell  carcinoma  头颈癌
-KICH	Kidney Chromophobe	                    肾嫌色癌
-KIPAN	Pan-kidney cohort (KICH+KIRC+KIRP)	    混合肾癌
-KIRC	Kidney renal clear cell carcinoma	    肾脏透明细胞癌
+KICH    Kidney Chromophobe	                    肾嫌色癌
+KIPAN   Pan-kidney cohort (KICH+KIRC+KIRP)	    混合肾癌
+KIRC    Kidney renal clear cell carcinoma	    肾脏透明细胞癌
 KIRP	Kidney renal papillary cell carcinoma	肾脏乳头状细胞癌
 LAML	Acute Myeloid Leukemia	                急性髓细胞白血病
-LGG	    Brain Lower Grade Glioma	            脑胶质瘤
+LGG     Brain Lower Grade Glioma	            脑胶质瘤
 LIHC	Liver hepatocellular carcinoma	        肝癌
-LUAD	Lung adenocarcinoma	                    肺腺癌
+LUAD    Lung adenocarcinoma	                    肺腺癌
 LUSC	Lung squamous cell carcinoma	        肺鳞癌
 MESO	Mesothelioma	                        间质瘤
-OV	    Ovarian serous cystadenocarcinoma	    卵巢癌
-PAAD	Pancreatic adenocarcinoma	            胰腺癌
+OV      Ovarian serous cystadenocarcinoma	    卵巢癌
+PAAD    Pancreatic adenocarcinoma	            胰腺癌
 PCPG	Pheochromocytoma and Paraganglioma   	嗜铬细胞与神经节瘤
 PRAD	Prostate adenocarcinoma	                前列腺癌
 READ	Rectum adenocarcinoma	                直肠癌
@@ -30,8 +30,8 @@ SARC	Sarcoma	                                肉瘤
 SKCM	Skin Cutaneous Melanoma	                皮肤黑色素瘤
 STAD	Stomach adenocarcinoma	                胃癌
 STES	Stomach and Esophageal carcinoma        胃、食管癌
-TGCT	Testicular Germ Cell Tumors	            睾丸癌
-THCA	Thyroid carcinoma	                    甲状腺癌
+TGCT    Testicular Germ Cell Tumors	            睾丸癌
+THCA    Thyroid carcinoma	                    甲状腺癌
 THYM	Thymoma	                                胸腺癌
 UCEC	Uterine Corpus Endometrial Carcinoma    子宫癌
 UCS     Uterine Carcinosarcoma	                子宫瘤
