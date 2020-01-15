@@ -1,12 +1,12 @@
-#±ıÍ¼
+#é¥¼å›¾
 x=structure(c(0.031, 0.163, 0.714, 0.092),
     names =c("t0  (3.1%)", "t1  (16.3%)", "t3  (71.4%)", "t4  (9.2%)"))
 x
-#»æÍ¼
+#ç»˜å›¾
 pie(x,labels = names(x), clockwise=T,col = c("green","yellow","red","black"),
-     main="Í¼2-4 98Àı³¦µÀ¶ñĞÔÖ×Áö»¼ÕßµÄ²¡Àí·ÖÆÚ");segments(0,0,0,0.5, col= "blue", lwd = 2)
-#±£´æ
-png(file = "pie.png")#Í¼ÎÄ¼şÃû
+     main="å›¾2-4 98ä¾‹è‚ é“æ¶æ€§è‚¿ç˜¤æ‚£è€…çš„ç—…ç†åˆ†æœŸ");segments(0,0,0,0.5, col= "blue", lwd = 2)
+#ä¿å­˜
+png(file = "pie.png")#å›¾æ–‡ä»¶å
 pie(x,labels = names(x), clockwise=T,col = c("green","yellow","red","black"),
-     main="Í¼2-4 98Àı³¦µÀ¶ñĞÔÖ×Áö»¼ÕßµÄ²¡Àí·ÖÆÚ");segments(0,0,0,0.5, col= "blue", lwd = 2)
-dev.off()#±£´æÍ¼
+     main="å›¾2-4 98ä¾‹è‚ é“æ¶æ€§è‚¿ç˜¤æ‚£è€…çš„ç—…ç†åˆ†æœŸ");segments(0,0,0,0.5, col= "blue", lwd = 2)
+dev.off()#ä¿å­˜å›¾
