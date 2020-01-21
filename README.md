@@ -2,5 +2,5 @@
 #### &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   手机版（mobile version）    
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  数据与代码：<font color=#0099ff size=5>View code</font>              
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  统计数值表：Issues                 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  作业与练习：Projects &nbsp;&nbsp;             
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  作业与练习：Projects &nbsp;&nbsp;                  
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  概念与术语：Wiki
