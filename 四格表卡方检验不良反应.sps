@@ -1,8 +1,8 @@
 * Encoding: GBK.
-*NюЩ8-1.
+*NД╬▀8-9.
 DATA LIST LIST  /g(F1.0) x(F1.0) f(F3.0).
-VARIABLE LABELS g '╥жвИ' x '╡╩а╪╥╢с╕' f 'ф╣йЩ' .
-VALUE LABELS g 1 'йтяИвИ' 2 '╤туувИ' /x 1 'сп' 2 'нч'.
+VARIABLE LABELS g 'Е┬├Г╩└' x 'Д╦█Х┴╞Е▐█Е╨■' f 'И╒▒Ф∙╟' .
+VALUE LABELS g 1 'Х╞∙И╙▄Г╩└' 2 'Е╞╧Г┘╖Г╩└' /x 1 'Ф°┴' 2 'Ф≈═'.
 BEGIN DATA
 1 1 2
 1 2 15
