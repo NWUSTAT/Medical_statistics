@@ -1,5 +1,4 @@
-* Encoding: GBK.
-*N例8-9.
+*例8-9.
 DATA LIST LIST  /g(F1.0) x(F1.0) f(F3.0).
 VARIABLE LABELS g '分组' x '不良反应' f '频数' .
 VALUE LABELS g 1 '试验组' 2 '对照组' /x 1 '有' 2 '无'.
