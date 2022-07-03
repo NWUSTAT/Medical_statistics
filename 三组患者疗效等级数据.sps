@@ -1,19 +1,10 @@
-* Encoding: GBK.
-*╣з╟кубо╟лБ юобЩж╖афп╖ .
+*Г╛╛Е┘╚Г╚═Д╧═И╒≤ Х─│Ф┘╒Ф■╞Г√≈Ф∙┬Г╜┴Г╨╖Ф∙╟Ф█╝ .
 DATA LIST FREE  /X(F1.0) Y(F1.0) f(F5.0).
-VARIABLE LABELS X 'жнаф╥╫╥╗' Y 'афп╖╣х╪╤' f 'ф╣йЩ' .
-VALUE LABELS X 1 'A' 2 'B' 3 'C' /Y 4 'жнсЗ' 1 '╨цв╙' 2 '╨цв╙' 3 'нчп╖' 4 '╪сжь'.
+VARIABLE LABELS X 'Ф╡╩Г√≈Ф√╧ФЁ∙' Y 'Г√≈Ф∙┬Г╜┴Г╨╖' f 'И╒▒Ф∙╟' .
+VALUE LABELS X 1 'A' 2 'B' 3 'C' /Y 4 'Ф╡╩Ф└┬' 1 'Е╔╫Х╫╛' 2 'Е╔╫Х╫╛' 3 'Ф≈═Ф∙┬' 4 'Е┼═И┤█'.
 BEGIN DATA
 1 4 12 1 3 23 1 2 9  1 1 14
 2 4 12 2 3 25 2 2 12 2 1 8
 3 4 26 3 3 21 3 2 4  3 1 4
 END DATA.
-*╪сх╗.
-WEIGHT BY f.
-*╪фкЦ©╗╥╫ж╣.
-CROSSTABS
-  /TABLES=X BY Y
-  /FORMAT=AVALUE TABLES
-  /STATISTICS=CHISQ 
-  /CELLS=COUNT
-  /COUNT ROUND CELL.
+LIST.
