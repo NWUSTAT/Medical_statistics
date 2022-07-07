@@ -1,7 +1,7 @@
 * Encoding: GBK.
-*Àý10-11.
+*ä¾‹10-10.
 DATA LIST LIST /ID(F1.0) m0(F5.2) m1(F5.2) m3(F5.2) m6(F5.2) m8(F5.2).
-VARIABLE LABELS ID 'Ó¤¶ù' m0 '³öÉú' m1 '1ÔÂ'  m3 '3ÔÂ'  m6 '6ÔÂ'  m8 '8ÔÂ' .
+VARIABLE LABELS ID 'å©´å„¿' m0 'å‡ºç”Ÿ' m1 '1æœˆ'  m3 '3æœˆ'  m6 '6æœˆ'  m8 '8æœˆ' .
 BEGIN DATA
 1 2.55 3.60 5.85 7.20 9.03
 2 2.80 4.02 6.46 8.87 10.20
@@ -14,7 +14,7 @@ BEGIN DATA
 END DATA.
 GLM m0 m1 m3 m6 m8
   /WSFACTOR=factor1 5 Simple 
-  /MEASURE=ÌåÖØ 
+  /MEASURE=ä½“é‡ 
   /METHOD=SSTYPE(3)
   /PRINT=DESCRIPTIVE PARAMETER 
   /PLOT=SPREADLEVEL 
