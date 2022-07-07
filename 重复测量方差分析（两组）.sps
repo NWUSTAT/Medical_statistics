@@ -1,8 +1,8 @@
 * Encoding: GBK.
-*Àý10-12.
+*ä¾‹10-11.
 DATA LIST LIST /g ID d1 d3 d5 d7.
-VARIABLE LABELS g '·Ö×é' ID 'ÊÜÊÔÕß' d1 'µÚ1Ìì' d3 'µÚ3Ìì' d5 'µÚ5Ìì' d7 'µÚ7Ìì'.
-VALUE LABELS g 1 'ÊÔÑé×é' 2 '¶ÔÕÕ×é'.
+VARIABLE LABELS g 'åˆ†ç»„' ID 'å—è¯•è€…' d1 'ç¬¬1å¤©' d3 'ç¬¬3å¤©' d5 'ç¬¬5å¤©' d7 'ç¬¬7å¤©'.
+VALUE LABELS g 1 'è¯•éªŒç»„' 2 'å¯¹ç…§ç»„'.
 BEGIN DATA
 1 1	119	120	102	100
 1 2	82	88	83	99
@@ -27,7 +27,7 @@ BEGIN DATA
 END DATA.
 GLM d1 d3 d5 d7 BY g
   /WSFACTOR=factor1 4 Simple 
-  /MEASURE=ÐÄÂÊ 
+  /MEASURE=å¿ƒçŽ‡ 
   /METHOD=SSTYPE(3)
   /PLOT=PROFILE(factor1*g) TYPE=LINE ERRORBAR=NO MEANREFERENCE=NO YAXIS=AUTO
   /PRINT=DESCRIPTIVE 
